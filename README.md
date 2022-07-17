@@ -1,0 +1,2 @@
+# pythoninicio
+python exercises
